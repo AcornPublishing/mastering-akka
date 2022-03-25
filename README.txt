@@ -1,0 +1,1 @@
+You will need a computer (Windows or Mac OS X) with Java 8 installed on it. You will need to have Simple Build Tool (sbt) installed on that computer as well. This book also leverages Docker, with the installation of Docker being covered in more detail in Chapter 1, Building a Better Reactive App.
